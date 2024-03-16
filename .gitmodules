@@ -1,0 +1,12 @@
+[submodule "vetrelec"]
+	path = vetrelec
+	url = git@github.com:Czechitas-podklady-WEB/vetrelec.git
+[submodule "trosecnik"]
+	path = trosecnik
+	url = git@github.com:Czechitas-podklady-WEB/trosecnik.git
+[submodule "cviceni-vizitka-git"]
+	path = cviceni-vizitka-git
+	url = git@github.com:Czechitas-podklady-WEB/cviceni-vizitka-git.git
+[submodule "cviceni-saturejka"]
+	path = cviceni-saturejka
+	url = git@github.com:Czechitas-podklady-WEB/cviceni-saturejka.git
